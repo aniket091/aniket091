@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Aniket</h1>
 <h3 align="center">Just another Indian boi who is also interested in Discord bot development!</h3>
 
+<p align="center"> <img src="https://api.ghprofile.me/view?username=aniket091&label=profile%20views&color=628fdb" alt="aniket" /> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
