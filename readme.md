@@ -35,14 +35,11 @@
 <p align="center">
   <a href="https://www.instagram.com/aniket.091/" target="_blank">
     <img src="./assets/instagram.png" height="32" width="32" alt="insta" >
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/invite/GaczkwfgV9" target="_blank">
     <img src="./assets/discord.svg" height="32" width="32" alt="discord" >
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://aniket.cf/" target="_blank">
     <img src="./assets/aniket.png" height="32" width="32" alt="website" >
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
