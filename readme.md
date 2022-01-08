@@ -2,7 +2,7 @@
 <h3 align="center">Just another Indian boi who loves to create discord bots!</h3>
 
 <p align="center">
-  <img src="https://badges.pufler.dev/visits/aniket091/aniket091?style=for-the-badge&label=profile%20views&color=6366f1" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=aniket091&style=flat-square&label=profile%20views&color=6366f1" alt="views" />
 </p>
 
 
